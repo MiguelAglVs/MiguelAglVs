@@ -2,11 +2,13 @@
 
 <h1>👋 ¡Hola, soy <b>Miguel Ángel Vargas S.</b>!</h1>
 <h3>💻 Desarrollador Full Stack | Técnico en Sistemas</h3>
-<p>Apasionado por el desarrollo web, la optimización de código y la creación de experiencias digitales impactantes.</p>
+<p>🚀 Apasionado por la tecnología, el desarrollo web y la creación de soluciones que combinan <b>diseño</b>, <b>funcionalidad</b> y <b>rendimiento</b>.</p>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
 ---
+
+<h2>🧠 Un poco sobre mí</h2>
 
 ```python
 class MiguelVargas:
@@ -17,10 +19,10 @@ class MiguelVargas:
         self.email = "miguelaglvs@gmail.com"
         self.github = "github.com/MiguelAglVs"
         self.linkedin = "linkedin.com/in/miguel-vargass"
-        self.specialties = ["Frontend", "Backend", "REST API", "Power BI", "UX"]
+        self.skills = ["React", "Node.js", "PHP", "Python", "REST API", "SQL", "Power BI"]
 
     def code(self):
-        return "⚡ Código limpio, escalable y funcional."
+        return "💡 Transformando ideas en código limpio, funcional y escalable."
 
     def __str__(self):
         return f"{self.name} — {self.role}"
