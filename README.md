@@ -21,12 +21,6 @@ if __name__ == '__main__':
     me = MiguelVargas()
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
 <h1 align="center">TECHNOLOGY</h1>
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
