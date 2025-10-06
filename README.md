@@ -45,3 +45,20 @@ if __name__ == "__main__":
   <img src="https://komarev.com/ghpvc/?username=MiguelAglVs&label=Visitas&color=6C63FF&style=flat">
 </p>
 
+<h2>🌱 Actualmente estoy...</h2>
+Mejorando mis habilidades en TypeScript y Next.js
+Desarrollando mi portafolio profesional
+Buscando oportunidades como Desarrollador Full Stack Junior
+Experimentando con nuevas integraciones de IA en desarrollo web
+
+<h2>📊 Estadísticas de GitHub</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MiguelAglVs&show_icons=true&theme=tokyonight&hide_border=true" height="180"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAglVs&layout=compact&theme=tokyonight&hide_border=true" height="180"> </p>
+
+<h2>🎯 Un poco más de mí</h2>
+🎮 Gamer casual — Valorant, Minecraft...
+🎨 Me encanta el diseño UI minimalista
+☕ Café, código y buena música son parte del proceso
+🌍 Siempre en búsqueda de nuevos retos y aprendizajes
+
+<h2>📫 Conecta conmigo</h2> <p align="center"> <a href="mailto:miguelaglvs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://linkedin.com/in/miguel-vargass"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/MiguelAglVs"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a> </p>
+
+<h3 align="center">💬 “El mejor código es el que hace simple lo complejo.”</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=MiguelAglVs&label=Visitas&color=6C63FF&style=flat"> </p> ```
