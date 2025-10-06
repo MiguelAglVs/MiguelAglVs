@@ -50,10 +50,6 @@ if __name__ == "__main__":
 
 <h2>🛠️ Tecnologías y herramientas</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,git,github,tailwind,vscode,powerbi" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MiguelAglVs&label=Visitas&color=6C63FF&style=flat">
-</p>
-
 <h2>🌱 Actualmente estoy...</h2>
 <ul>
   <li>Mejorando mis habilidades en TypeScript y Next.js</li>
