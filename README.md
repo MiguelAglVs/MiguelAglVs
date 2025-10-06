@@ -25,7 +25,7 @@ if __name__ == '__main__':
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,js,nodejs,py,npm,mongodb,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,js,nodejs,py,php,npm,mongodb,mysql,postgres,git" />
   </a>
 </p>
 
