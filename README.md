@@ -46,10 +46,12 @@ if __name__ == "__main__":
 </p>
 
 <h2>🌱 Actualmente estoy...</h2>
-Mejorando mis habilidades en TypeScript y Next.js
-Desarrollando mi portafolio profesional
-Buscando oportunidades como Desarrollador Full Stack Junior
-Experimentando con nuevas integraciones de IA en desarrollo web
+<ul>
+  <li>Mejorando mis habilidades en TypeScript y Next.js</li>
+  <li>Desarrollando mi portafolio profesional</li>
+  <li>Buscando oportunidades como Desarrollador Full Stack Junior</li>
+  <li>Experimentando con nuevas integraciones de IA en desarrollo web</li>
+</ul>
 
 <h2>📊 Estadísticas de GitHub</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MiguelAglVs&show_icons=true&theme=tokyonight&hide_border=true" height="180"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAglVs&layout=compact&theme=tokyonight&hide_border=true" height="180"> </p>
 
