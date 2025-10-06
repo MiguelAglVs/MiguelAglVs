@@ -80,9 +80,6 @@ if __name__ == "__main__":
   <a href="https://linkedin.com/in/miguel-vargass">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/MiguelAglVs">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
-  </a>
   <a href="https://wa.me/573046132795" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
