@@ -30,13 +30,22 @@ class MiguelVargas:
     def mindset(self):
         return "🧩 Aprender, crear, mejorar y nunca rendirse."
 
-    def __str__(self):
-        return f"{self.name} — {self.role}"
+    def info(self):
+        return f"""
+        👤 {self.name}
+        💻 {self.role}
+        📍 {self.location}
+        ✉️ {self.email}
+        🔗 {self.linkedin}
+        🧠 Especialidades: {", ".join(self.specialties)}
+        🧰 Stack: {", ".join(self.stack)}
+        {self.code()}
+        {self.mindset()}
+        """
 
 if __name__ == "__main__":
     me = MiguelVargas()
-    print(me.code())
-    print(me.mindset())
+    print(me.info())
 ```
 
 <h2>🛠️ Tecnologías y herramientas</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,git,github,tailwind,vscode,powerbi" /> </p>
