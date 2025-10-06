@@ -46,6 +46,8 @@ class MiguelVargas:
 if __name__ == "__main__":
     me = MiguelVargas()
     print(me.info())
+    print(me.code())
+    print(me.mindset())
 ```
 
 <h2>🛠️ Tecnologías y herramientas</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,git,github,tailwind,vscode,powerbi" /> </p>
