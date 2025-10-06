@@ -7,26 +7,40 @@
 <h2>🧠 Un poco sobre mí</h2>
 
 ```python
-class MiguelVargas():
-    
-  def __init__(self):
-    self.name = "Miguel Ángel Vargas Saldarriaga"
-    self.role = "Desarrollador Full Stack"
-    self.location = "Medellín, Colombia"
-    self.email = "miguelaglvs@gmail.com"
-    self.linkedin = "linkedin.com/in/miguel-vargass"
-    self.specialties = ["Frontend", "Backend", "REST API", "Power BI", "UX"]
+class MiguelVargas:
+    def __init__(self):
+        self.name = "Miguel Ángel Vargas Saldarriaga"
+        self.role = "Desarrollador Full Stack"
+        self.location = "Medellín, Colombia"
+        self.email = "miguelaglvs@gmail.com"
+        self.linkedin = "linkedin.com/in/miguel-vargass"
+        self.specialties = ["Frontend", "Backend", "REST API", "Power BI", "UX"]
+        self.stack = ["React", "Node.js", "Python", "SQL", "TailwindCSS"]
 
- def code(self):
-    return "⚡ Código limpio, escalable y funcional."
+    def code(self):
+        return "⚡ Código limpio, escalable y funcional."
 
- def __str__(self):
-    return f"{self.name} — {self.role}"
-  
-  def __str__(self):
-    return self.name
+    def __str__(self):
+        return f"{self.name} — {self.role}"
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     me = MiguelVargas()
     print(me.code())
+
 ```
+
+<h2>🛠️ Tecnologías y herramientas</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,git,github,tailwind,vscode,powerbi" />
+</p>
+
+<h2>🚧 Proyectos Destacados</h2>
+
+- 🎨 <b>[Portafolio Web Personal](#)</b> — Diseño moderno y minimalista con React + Tailwind.
+- 🧾 <b>[Dashboard de Inventario](#)</b> — Visualizaciones en Power BI para análisis de datos empresariales.
+- ⚙️ <b>[API CRUD con Supabase y Node.js](#)</b> — Backend funcional con autenticación.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MiguelAglVs&label=Visitas&color=6C63FF&style=flat">
+</p>
+
