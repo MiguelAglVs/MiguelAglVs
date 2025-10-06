@@ -23,8 +23,6 @@ if __name__ == '__main__':
 
 <h1 align="center">TECHNOLOGY</h1>
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-</p>
 
 
