@@ -11,24 +11,18 @@
 <h2>🧠 Un poco sobre mí</h2>
 
 ```python
-class MiguelVargas:
-    def __init__(self):
-        self.name = "Miguel Ángel Vargas Saldarriaga"
-        self.role = "Desarrollador Full Stack"
-        self.location = "Medellín, Colombia"
-        self.email = "miguelaglvs@gmail.com"
-        self.github = "github.com/MiguelAglVs"
-        self.linkedin = "linkedin.com/in/miguel-vargass"
-        self.skills = ["React", "Node.js", "PHP", "Python", "REST API", "SQL", "Power BI"]
+class AbhigyanTrips():
+    
+  def __init__(self):
+    self.name = "Abhigyan Tripathi";
+    self.username = "abhigyantrips";
+    self.location = "Mumbai, India";
+    self.twitter = "@abhigyantrips";
+    self.web = "https://abhigyantrips.dev";
+  
+  def __str__(self):
+    return self.name
 
-    def code(self):
-        return "💡 Transformando ideas en código limpio, funcional y escalable."
-
-    def __str__(self):
-        return f"{self.name} — {self.role}"
-
-if __name__ == "__main__":
-    me = MiguelVargas()
-    print(me.code())
+if __name__ == '__main__':
+    me = AbhigyanTrips()
 ```
-
