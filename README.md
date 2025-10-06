@@ -32,22 +32,20 @@ class MiguelVargas:
 
     def info(self):
         return f"""
-        👤 {self.name}
-        💻 {self.role}
-        📍 {self.location}
-        ✉️ {self.email}
-        🔗 {self.linkedin}
-        🧠 Especialidades: {", ".join(self.specialties)}
-        🧰 Stack: {", ".join(self.stack)}
-        {self.code()}
-        {self.mindset()}
+👤 {self.name}
+💻 {self.role}
+📍 {self.location}
+✉️ {self.email}
+🔗 {self.linkedin}
+🧠 Especialidades: {", ".join(self.specialties)}
+🧰 Stack: {", ".join(self.stack)}
+{self.code()}
+{self.mindset()}
         """
 
 if __name__ == "__main__":
     me = MiguelVargas()
     print(me.info())
-    print(me.code())
-    print(me.mindset())
 ```
 
 <h2>🛠️ Tecnologías y herramientas</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,git,github,tailwind,vscode,powerbi" /> </p>
