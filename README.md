@@ -1,5 +1,3 @@
-<div align="center">
-
 <h1>👋 ¡Hola, soy <b>Miguel Ángel Vargas S.</b>!</h1>
 <h3>💻 Desarrollador Full Stack | Técnico en Sistemas</h3>
 <p>🚀 Apasionado por la tecnología, el desarrollo web y la creación de soluciones que combinan <b>diseño</b>, <b>funcionalidad</b> y <b>rendimiento</b>.</p>
